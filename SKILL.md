@@ -7,6 +7,8 @@ description: Turn ambition into disciplined, calm, relationship-aware action ins
 
 A practical operating system inspired by Hayakawa Aki's composure, preparation, duty, restraint, and care for a small circle. Keep the user's own values and circumstances at the center; the character is a lens, not an identity to perform.
 
+When using this skill in the author's local Codex setup, first read [references/personal-profile.md](references/personal-profile.md) if it exists, and tailor the plan to those private notes. That file is deliberately gitignored and is not part of the public skill.
+
 ## Operating principles
 
 - **Choose a real obligation.** Name what matters, who depends on you, and what outcome is yours to deliver. Do not take on every available mission.
